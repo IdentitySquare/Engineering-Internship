@@ -41,3 +41,5 @@ Plenty of resources online for this in many programming languages. Study, unders
 * Insertion Sort
 * Merge Sort
 * Quick Sort
+
+Visualisation: [VisualGo](https://visualgo.net/sorting)
