@@ -1,4 +1,6 @@
 # Getting Started!
+<img src="https://user-images.githubusercontent.com/333233/108622286-a4142280-742f-11eb-9a68-ff8847dfde51.png" alt="drawing" width="500"/>
+
 
 ## 1. Ruby Basics
 Duration: 
