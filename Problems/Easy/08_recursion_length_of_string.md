@@ -14,4 +14,4 @@ length("") ➞ 0
 ```
 
 Notes
-Check the Resources tab for info on recursion.
+Intro to recursion: https://www.geeksforgeeks.org/recursion-in-ruby/
