@@ -13,5 +13,5 @@ gcd(5, 7) ➞ 1
 gcd(2, 6) ➞ 2 
 ```
 
-Notes
-N/A
+Notes:
+Intro to recursion: https://www.geeksforgeeks.org/recursion-in-ruby/
