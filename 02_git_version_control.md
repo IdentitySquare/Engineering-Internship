@@ -1,8 +1,23 @@
 # Git & GitHub
 
+This is a very important topic to cover. This is very core to workflow for how applications are built, reviewed and versioned. 
+
+## Learning
+
 Resources:
 * https://try.github.io
 * https://www.atlassian.com/git
+
+Learning Outcomes:
+1. What is Git and why we need version control. 
+2. Git commit.
+3. Git checkout.
+4. Git branching.
+5. Git merging.
+6. Difference between Git & GitHub.
+7. Creating a GitHub repo & pushing your code.
+8. Pull request.
+9. Review workflow & merging pull requests.
 
 
 ## Tasks
