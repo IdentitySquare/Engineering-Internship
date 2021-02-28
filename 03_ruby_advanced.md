@@ -9,9 +9,6 @@ Helpful tools:
 * RuboCop autocorrect plugin
 * Good terminal & plugins
 
-
-# More Harder Algorithms
-
 # Automated Testing
 * MiniTest
 
@@ -21,6 +18,9 @@ https://semaphoreci.com/community/tutorials/getting-started-with-minitest
 Big0 Notation
 
 https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
+
+# More Harder Algorithms
+
 
 # Advanced Data Structures
 
