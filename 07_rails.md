@@ -1,3 +1,6 @@
+# Why Rails? 
+
+https://dev.to/identitysquare/companies-using-ruby-rails-4pl2
 
 
 # Rails Basics
