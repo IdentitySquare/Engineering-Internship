@@ -3,7 +3,7 @@
 
 
 ## 1. Ruby Basics
-Duration: 
+Estimated Duration: 2-3 days
 
 What you'll learn:
 * Basics
@@ -15,11 +15,14 @@ Start here: **[Learn Ruby &rarr;](https://www.codecademy.com/learn/learn-ruby)**
 
 
 ## 2. Learn the Coding Style
+Estimated Duration: 2 hours to read and familiarise it so we can use this as reference going forward. 
+
 * [Airbnb Style Guide](https://github.com/airbnb/ruby)
 * [RuboCop Style Guide](https://github.com/rubocop-hq/ruby-style-guide)
 
 
 ## 3. Basic Algorithms
+Estimated Duration: 5-7 days - doing an average of 4 questions a day.
 
 Running code online: [Repl.it](http://repl.it)
 
