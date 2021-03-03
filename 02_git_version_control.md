@@ -22,8 +22,7 @@ Learning Outcomes:
 
 
 ## Tasks
-Estimated Duration: 4 hours for PR created with code update & description for the PR.
-+ additional 1-2 days for reviewing feedback, making correction and finally getting it approved to be merged. 
+Estimated Duration: 4 hours for PR created with code update & description for the PR + additional 1-2 days for reviewing feedback, making correction and finally getting it approved to be merged. 
 
 1. Create a new GitHub repo in your personal account called "Problem-Solving"
 2. To that repo, create one new pull request for each of the easy problem solving questions you solved on repl.it. Do not merge the Pull Requests. 
