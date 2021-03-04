@@ -25,7 +25,7 @@ The idea: Write code that passes in input values to our method and expects a cer
 By this point you must have a Git repo of all your basic problem solving from chapter 1. Each in it's own open PR. 
 We are going to review each of the PRs and write MiniTest for each of the solutions you have written out. 
 
-[Example →](https://gist.github.com/danielpaul/f73a7779360d14c81dd9de111931bf82)
+**[Example →](https://gist.github.com/danielpaul/f73a7779360d14c81dd9de111931bf82)**
 
 1. Start by creating tests given in the problem.
 2. Think of your own test cases considering edge cases. 
