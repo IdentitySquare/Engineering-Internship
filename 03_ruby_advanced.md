@@ -1,4 +1,5 @@
 ## 1. Local Computer Setup
+Estimated time: Varies on your computer, setup and issues you might run into. Could range from an hour to a full day if you encounter issues.
 
 A Luinix system is easier to work with. You will have the easiest time setting up if you are on a mac or Ubuntu. 
 You can setup in Windows but you might have issues. You can try Googling for tutorials on this. We'd recommend that you install Ubuntu as a second OS or atleast in a Virtual Machine to try it out. 
@@ -13,6 +14,7 @@ Helpful additional tools:
 * Good terminal & plugins
 
 ## 2. Automated Testing
+Estimated time: 4 hours to read & understand + 2 days to introduce Minitest to your problem solving questions. 
 
 We have been writing just Ruby methods and testing the functionality manually. We are going to level up QA (Quality Assurance) of our code with automated testing. 
 
@@ -42,6 +44,7 @@ Going forward, especially for the more complex algorithms we will be creating, w
 
 
 ## 3. Performance Optomisation
+Estimated time: 2 hours to read & understand.
 
 You can solve the same problem in multiple ways. Some solutions are more time & resources intensive than others. 
 We always want to optomise our code to the best performing code as possible. Some of the factors that will affect performance are the number of loops, nested loops, inefficient searching of arrays each time (lookup times), etc. 
@@ -52,6 +55,7 @@ We will be using this knowledge to build our algorithms with code performance in
 
 
 ## 4. More "Intersting" Algorithms
+Estimated time: 2 weeks.
 
 Level II of problem solving:
 
