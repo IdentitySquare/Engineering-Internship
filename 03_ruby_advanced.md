@@ -1,4 +1,4 @@
-# Local Computer Setup
+## 1. Local Computer Setup
 
 A Luinix system is easier to work with. You will have the easiest time setting up if you are on a mac or Ubuntu. 
 You can setup in Windows but you might have issues. You can try Googling for tutorials on this. We'd recommend that you install Ubuntu as a second OS or atleast in a Virtual Machine to try it out. 
@@ -12,7 +12,7 @@ Helpful additional tools:
 * RuboCop autocorrect plugin for your editor - corrects your code to follow Rubocop style guide
 * Good terminal & plugins
 
-# Automated Testing
+## 2. Automated Testing
 
 We have been writing just Ruby methods and testing the functionality manually. We are going to level up QA (Quality Assurance) of our code with automated testing. 
 
@@ -41,16 +41,16 @@ This also helps in not having to manaully test and verify answers for multiple i
 Going forward, especially for the more complex algorithms we will be creating, write your tests first. It will make you life a lot easier to solve those questions and test verious inputs for the correct solutions.
 
 
-# Performance Optomisation
+## 3. Performance Optomisation
 Big0 Notation
 
 https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
 
-# More "Intersting" Algorithms
+## 4. More "Intersting" Algorithms
 https://github.com/IdentitySquare/Engineering-Internship/tree/main/Problems/Medium
 
 
-# Advanced Data Structures
+## 5. Advanced Data Structures
 
 Refresher: https://www.rubyguides.com/ruby-tutorial/object-oriented-programming/
 
