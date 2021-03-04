@@ -59,7 +59,7 @@ Estimated time: 2 weeks.
 
 Level II of problem solving:
 
-**[Get Started →](https://github.com/IdentitySquare/Engineering-Internship/tree/main/Problems/Medium)
+**[Get Started →](https://github.com/IdentitySquare/Engineering-Internship/tree/main/Problems/Medium)**
 
 As before, create a new PR for each solution. Each solution should have Minitests which tests your code. 
 
