@@ -39,9 +39,6 @@ The following links are in another language, but you should be able to read, und
 * [Linear Search](https://www.studytonight.com/data-structures/linear-search-algorithm)
 * [Binary Search](https://www.studytonight.com/data-structures/binary-search-algorithm)
 
-### Task:
-Create a PR with the two search algorithms in Ruby.
-
 
 ## 5. Sorting Algorithms
 Plenty of resources online for this in many programming languages. Study, understand & write a code that you can reproduce yourself. 
@@ -53,7 +50,3 @@ Plenty of resources online for this in many programming languages. Study, unders
 * Quick Sort
 
 Visualisation: [VisualGo](https://visualgo.net/sorting)
-
-### Task: 
-Create a PR with all the sorting algorithms in Ruby.
-
