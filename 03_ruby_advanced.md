@@ -30,6 +30,7 @@ We are going to revisit each of the PRs and write MiniTest for each of the solut
 In each of the PR, add each solution to a folder with a file which will hold the solution method and a seperate file with the tests.
 
 **[Example PR →](https://github.com/IdentitySquare/Engineering-Internship/pull/3)**
+
 View the file changes to see the example code and file structure.
 
 1. Start by creating tests given in the problem.
