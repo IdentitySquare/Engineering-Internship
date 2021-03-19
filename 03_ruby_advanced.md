@@ -4,7 +4,7 @@ Estimated time: Varies on your computer, setup and issues you might run into. Co
 A Luinix system is easier to work with. You will have the easiest time setting up if you are on a mac or Ubuntu. 
 You can setup in Windows but you might have issues. You can try Googling for tutorials on this. We'd recommend that you install Ubuntu as a second OS or atleast in a Virtual Machine to try it out. 
 
-### Task:
+### ✅ Task:
 
 1. Install Ruby, Git & a Ruby Version Manager (RVM or similar). **[Guide →](http://www.installrails.com)**
 2. Install Code Editor - your personal preference. We use [Atom](https://atom.io) or [VS Code](https://code.visualstudio.com). 
@@ -39,7 +39,7 @@ View the file changes to see the example code and file structure.
 
 TDD is where the tests are written first before any solution is written. The test cases once written correctly and once run, all of them wil fail since there is no solution written. The task of the developer is to then get all the tests to pass. If all the tests pass, you can be confident that your code is good and solves for the problem. 
 
-**[Read more →](https://www.guru99.com/test-driven-development.html)**
+✅ **[Read more →](https://www.guru99.com/test-driven-development.html)**
 
 This also helps in not having to manaully test and verify answers for multiple inputs. Just run the test and the tests tell you what is correct and wrong. 
 
@@ -52,7 +52,7 @@ Estimated time: 2 hours to read & understand.
 You can solve the same problem in multiple ways. Some solutions are more time & resources intensive than others. 
 We always want to optomise our code to the best performing code as possible. Some of the factors that will affect performance are the number of loops, nested loops, inefficient searching of arrays each time (lookup times), etc. 
 
-**[Learn about Big0 Notation →](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)**
+✅ **[Learn about Big0 Notation →](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)**
 
 We will be using this knowledge to build our algorithms with code performance in mind. 
 
@@ -62,7 +62,7 @@ Estimated time: 2 weeks.
 
 Level II of problem solving:
 
-**[Get Started →](https://github.com/IdentitySquare/Engineering-Internship/tree/main/Problems/Medium)**
+✅ **[Get Started →](https://github.com/IdentitySquare/Engineering-Internship/tree/main/Problems/Medium)**
 
 As before, create a new PR for each solution. Each solution should have Minitests which tests your code. 
 
