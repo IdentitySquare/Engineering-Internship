@@ -23,11 +23,14 @@ The idea: Write code that passes in input values to our method and expects a cer
 1. **[Get Started with MiniTest →](https://semaphoreci.com/community/tutorials/getting-started-with-minitest)**
 2. **[Detailed Tutorial →](https://launchschool.com/blog/assert-yourself-an-introduction-to-minitest)**
 
-### Task:
+### ✅ Task:
 By this point you must have a Git repo of all your basic problem solving from chapter 1. Each in it's own open PR. 
-We are going to review each of the PRs and write MiniTest for each of the solutions you have written out. 
+We are going to revisit each of the PRs and write MiniTest for each of the solutions you have written out. 
 
-**[Example →](https://gist.github.com/danielpaul/f73a7779360d14c81dd9de111931bf82)**
+In each of the PR, add each solution to a folder with a file which will hold the solution method and a seperate file with the tests.
+
+**[Example PR →](https://github.com/IdentitySquare/Engineering-Internship/pull/3)**
+View the file changes to see the example code and file structure.
 
 1. Start by creating tests given in the problem.
 2. Think of your own test cases considering edge cases. 
