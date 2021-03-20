@@ -18,5 +18,5 @@ What you'll learn:
 
 Read and familiarise yourself with the coding style so we can use this as reference going forward.
 
-✅ [Airbnb Style Guide](https://github.com/airbnb/ruby)
-✅ [RuboCop Style Guide](https://github.com/rubocop-hq/ruby-style-guide)
+- ✅ [Airbnb Style Guide](https://github.com/airbnb/ruby)
+- ✅ [RuboCop Style Guide](https://github.com/rubocop-hq/ruby-style-guide)
