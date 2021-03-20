@@ -14,3 +14,10 @@ https://gorails.com/series/rails-for-beginners
 * Callbacks
 * Authorisation
 * ActionMailer
+
+
+
+---
+
+# Overview Map
+<img src="https://dgosxlrnzhofi.cloudfront.net/custom_page_images/64/page_images/Rails_Competencies.png?1386276348" />
