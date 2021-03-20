@@ -10,6 +10,7 @@ What you'll learn:
 * Arrays & Hashes
 * Object-Oriented Programming
 
+
 ✅ **[Learn Ruby &rarr;](https://www.codecademy.com/learn/learn-ruby)**
 
 
@@ -18,5 +19,5 @@ What you'll learn:
 
 Read and familiarise yourself with the coding style so we can use this as reference going forward.
 
-- ✅ [Airbnb Style Guide](https://github.com/airbnb/ruby)
-- ✅ [RuboCop Style Guide](https://github.com/rubocop-hq/ruby-style-guide)
+- ✅ [Airbnb Style Guide &rarr;](https://github.com/airbnb/ruby)
+- ✅ [RuboCop Style Guide &rarr;](https://github.com/rubocop-hq/ruby-style-guide)
