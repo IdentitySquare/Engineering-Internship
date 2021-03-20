@@ -1,4 +1,4 @@
-# Software Engineering Internship 😎
+# 😎 Software Engineering Internship
 Welcome to the [Identity Square](https://identitysquare.ie) Full-Stack Software Engineering Internship. At the end of the 6-month full-time internship, you would have received the training, support, feedback and production application experience to call yourself a junior software engineer.
 
 The internship is split in two:
