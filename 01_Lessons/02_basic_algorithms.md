@@ -30,4 +30,4 @@ Plenty of resources online for this in many programming languages. Study, unders
 
 Visualisation: [VisualGo](https://visualgo.net/sorting)
 
-✅ **Code 5 sorting algorithms**
+✅ **Code 5 sorting algorithms in Ruby**
