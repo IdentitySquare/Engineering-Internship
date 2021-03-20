@@ -13,7 +13,7 @@ We will be using this knowledge to build our algorithms with code performance in
 
 
 ## 2. More "Intersting" Algorithms
-*Estimated time: 8 days weeks*
+*Estimated time: 7 days weeks*
 Aim for 4 questions a day. 2 hours for each question.
 
 Level II of problem solving:
@@ -23,12 +23,12 @@ As before, create a new PR for each solution. Each solution should have Minitest
 
 
 ## 3. Advanced Data Structures
-*Estimated time: 1 day*
+*Estimated time: 2-3 days*
 Read and understand the structures for now. This will be important later & for interviews.
 
 Refresher: [OOP](https://www.rubyguides.com/ruby-tutorial/object-oriented-programming/)
 
-#### Linked Lists
+### Linked Lists
 Implementations:
 - [Singly-linked, Linked-list](https://hackernoon.com/implementing-singly-linked-list-with-ruby-om2df3ya6)
 - Doubly-linked, Linked-list
@@ -36,19 +36,19 @@ Implementations:
 - Circular Linked List
 
 Actions to learn:
-1. Add a new value
+- Add a new value
   - end of the list
   - start of the list
   - in the middle
-2. Deleting a value
+- Deleting a value
   - end value
   - head value
   - middle value
-3. Traverse the list (print all the values in order)
-4. Sorting the list
+- Traverse the list (print all the values in order)
+- Sorting the list
 
 
-#### Trees
+### Trees
 - Binary Trees
 
 Actions:
