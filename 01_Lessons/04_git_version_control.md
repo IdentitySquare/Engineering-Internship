@@ -1,13 +1,12 @@
 # Git & GitHub
-
 This is a very important topic to cover. This is very core to workflow for how applications are built, reviewed and versioned.
 
 ## Learning
-**Estimated Duration**: 1-2 days
+*Estimated Duration: 1-2 days*
 
 Resources:
-* https://try.github.io
-* https://www.atlassian.com/git
+* [Try Git](https://try.github.io)
+* [Git Guide by Atlassian](https://www.atlassian.com/git)
 
 Learning Outcomes:
 1. What is Git and why we need version control.
@@ -17,14 +16,13 @@ Learning Outcomes:
 5. Git merging.
 6. Difference between Git & GitHub.
 7. Creating a GitHub repo & pushing your code.
-8. Pull request.
+8. Pull request (PR).
 9. Review workflow & merging pull requests.
+10. The `.gitignore` file.
 
-Gitignore
 
-
-## Tasks
-**Estimated Duration**: 4 hours for PR created with code update & description for the PR.
+## ✅ Task
+*Estimated Duration: 4 hours for PR created with code update & description for the PR.*
 
 1. Create a new private GitHub repo in your personal account called "Problem-Solving"
 2. Invite your internship mentor toy our repo.
@@ -38,7 +36,7 @@ Gitignore
 This is how production workflow would work for code reviews and how only good working code is merged into the main branch.
 
 ```
-git checkout -b 'problems/easy/01`
+git checkout -b 'problems/easy/01'
 
 # ... add files ...
 

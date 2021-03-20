@@ -1,3 +1,5 @@
+# Let's get coding!
+
 ## 1. Basic Algorithms
 *Estimated Duration: 5-7 days*
 An average of 4 questions a day.
