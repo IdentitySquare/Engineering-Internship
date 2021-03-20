@@ -1,4 +1,4 @@
-# Your Computer
+# 💻 Your Computer
 
 ## 1. Local Computer Setup
 *Estimated time: Varies on your computer, setup and issues you might run into. Could range from an hour to a full day if you encounter issues.*

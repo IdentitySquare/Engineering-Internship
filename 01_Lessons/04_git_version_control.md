@@ -1,4 +1,4 @@
-# Git & GitHub
+# 🔧 Git & GitHub
 This is a very important topic to cover. This is very core to workflow for how applications are built, reviewed and versioned.
 
 ## Learning

@@ -1,4 +1,4 @@
-# Let's get coding!
+# 🚥 Let's get coding!
 
 ## 1. Basic Algorithms
 *Estimated Duration: 5-7 days*
