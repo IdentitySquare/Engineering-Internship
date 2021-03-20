@@ -2,6 +2,7 @@
 
 ## 1. Performance Optimisation
 *Estimated time: 2 hours*
+
 Read & understand. We will be using this knowledge soon.
 
 You can solve the same problem in multiple ways. Some solutions are more time & resources intensive than others.
@@ -14,6 +15,7 @@ We will be using this knowledge to build our algorithms with code performance in
 
 ## 2. More "Intersting" Algorithms
 *Estimated time: 7 days weeks*
+
 Aim for 4 questions a day. 2 hours for each question.
 
 Level II of problem solving:
@@ -24,6 +26,7 @@ As before, create a new PR for each solution. Each solution should have Minitest
 
 ## 3. Advanced Data Structures
 *Estimated time: 2-3 days*
+
 Read and understand the structures for now. This will be important later & for interviews.
 
 Refresher: [OOP](https://www.rubyguides.com/ruby-tutorial/object-oriented-programming/)
@@ -52,9 +55,9 @@ Actions to learn:
 - Binary Trees
 
 Actions:
-1. Adding values
-2. Finding a value
-3. Deleting a value
-4. Balancing the tree
+- Adding values
+- Finding a value
+- Deleting a value
+- Balancing the tree
 
 ✅ Task: Implement the above data structures in Ruby, upload & open a PR on your Git repo for each data structure.
