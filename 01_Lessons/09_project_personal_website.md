@@ -18,7 +18,7 @@ Use bootstrap to build a personal **one-page website** to showcase your experien
 
 ## Inspiration
 
-* [Search on Dribbble &rarr;](https://dribbble.com/search/cv)
+**[Search on Dribbble &rarr;](https://dribbble.com/search/cv)**
 
 
 [![image](https://user-images.githubusercontent.com/333233/114700585-97b69280-9d19-11eb-99ea-d6ebc21bd965.png)](https://dribbble.com/shots/14952459-New-Resume)
