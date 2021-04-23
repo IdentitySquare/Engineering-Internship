@@ -14,9 +14,9 @@ We will be using this knowledge to build our algorithms with code performance in
 
 
 ## 2. More "Intersting" Algorithms
-*Estimated time: 7 days weeks*
+*Estimated time: 32 days doing 1 per day*
 
-Aim for 4 questions a day. 2 hours for each question.
+You will be doing 1 PR per day with the solution and automated tests while continuing to advance in chapters.
 
 Level II of problem solving:
 ✅ **[Get Started →](../02_Problems/02_Medium)**
@@ -27,13 +27,12 @@ As before, create a new PR for each solution. Each solution should have Minitest
 ## 3. Advanced Data Structures
 *Estimated time: 32 days doing 1 per day*
 
-You will be doing 1 PR per day with the solution and automated tests while continuing to advance in chapters.
-
 Read and understand the structures for now. This will be important later & for interviews.
 
 Refresher: [OOP](https://www.rubyguides.com/ruby-tutorial/object-oriented-programming/)
 
 ### Linked Lists
+
 Implementations:
 - [Singly-linked, Linked-list](https://hackernoon.com/implementing-singly-linked-list-with-ruby-om2df3ya6)
 - Doubly-linked, Linked-list
