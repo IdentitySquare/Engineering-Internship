@@ -13,7 +13,7 @@ We always want to optomise our code to the best performing code as possible. Som
 We will be using this knowledge to build our algorithms with code performance in mind.
 
 
-## 2. More "Intersting" Algorithms
+## 2. More "Interesting" Algorithms
 *Estimated time: 32 days doing 1 per day*
 
 You will be doing 1 PR per day with the solution and automated tests while continuing to advance in chapters.
