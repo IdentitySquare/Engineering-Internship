@@ -5,7 +5,7 @@ https://dev.to/identitysquare/companies-using-ruby-rails-4pl2
 
 # Rails Basics
 
-https://gorails.com/series/rails-for-beginners
+https://guides.rubyonrails.org/getting_started.html
 
 * Installation
 * Ruby Version Manager & Gems
