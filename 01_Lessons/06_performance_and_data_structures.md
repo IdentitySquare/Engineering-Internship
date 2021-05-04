@@ -25,7 +25,7 @@ As before, create a new PR for each solution. Each solution should have Minitest
 
 
 ## 3. Advanced Data Structures
-*Estimated time: 32 days doing 1 per day*
+*Estimated time: 2 days doing 1 per day*
 
 Read and understand the structures for now. This will be important later & for interviews.
 
