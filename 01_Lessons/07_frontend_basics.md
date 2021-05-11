@@ -6,3 +6,4 @@ https://www.youtube.com/watch?v=7_LPdttKXPc
 * Learn CSS: https://www.codecademy.com/learn/learn-css
 
 # Javascript
+* Learn Javascript: https://www.codecademy.com/learn/introduction-to-javascript
