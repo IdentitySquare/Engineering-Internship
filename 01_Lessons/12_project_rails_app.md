@@ -13,6 +13,12 @@ Must have:
 # Rails Testing
 Testing: TDD/BDD (RSpec & Capybara), Factories (Factory Girl)
 
+1. [Basics &rarr;](https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-rspec)
+2. [Shoulda Matchers &rarr;](https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-rspec)
+3. [Factory Bot & Faker &rarr;](https://www.driftingruby.com/episodes/sample-data-with-factory-bot-and-faker)
+
+
+
 # Async Jobs
 
 # Action Cable & Hotwire
