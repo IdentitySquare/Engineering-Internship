@@ -18,6 +18,10 @@ Testing: TDD/BDD (RSpec & Capybara), Factories (Factory Girl)
 3. [Factory Bot & Faker &rarr;](https://www.driftingruby.com/episodes/sample-data-with-factory-bot-and-faker)
 4. [Feature Tests &rarr;](https://medium.com/@lindebergnick/feature-testing-in-rails-with-rspec-and-capybara-8cb8ee38cb6a)
 
+Good Links for structuring Rspec Tests
+* http://jakegoulding.com/presentations/rspec-structure/#slide-15
+* https://github.com/rubocop/rspec-style-guide
+* https://www.betterspecs.org
 
 
 # Async Jobs
