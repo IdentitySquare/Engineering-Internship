@@ -44,7 +44,7 @@ git checkout -b 'problems/easy/01'
 git status
 git add x
 
-# verify you have stages correct file
+# verify you have staged the correct file
 git status
 
 # commit with a message inline
