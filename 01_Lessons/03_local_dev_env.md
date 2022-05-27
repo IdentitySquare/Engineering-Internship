@@ -3,7 +3,7 @@
 ## 1. Local Computer Setup
 *Estimated time: Varies on your computer, setup and issues you might run into. Could range from an hour to a full day if you encounter issues.*
 
-A Lunix system is easier to work with. You will have the easiest time setting up if you are on macOS or Ubuntu.
+A Linux system is easier to work with. You will have the easiest time setting up if you are on macOS or Ubuntu.
 
 **Windows**: You can setup in Windows but you might have issues. You can try Googling for tutorials on this. We strongly recommend that you install Ubuntu as a second OS or at least in a Virtual Machine.
 
