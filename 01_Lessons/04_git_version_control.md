@@ -25,7 +25,7 @@ Learning Outcomes:
 *Estimated Duration: 4 hours for PR created with code update & description for the PR.*
 
 1. Create a new private GitHub repo in your personal account called "Problem-Solving"
-2. Invite your internship mentor toy our repo.
+2. Invite your internship mentor to your repo.
 3. To that repo, create one new pull request for each of the easy problem solving questions you solved on repl.it. Do not merge the Pull Requests. (Be sure to branch out from the main branch all the time and not to create branches from other branches).
 4. At the end of that you will have about 20 pull requests open.
 5. Create a PR with all the sorting algorithms in Ruby.
